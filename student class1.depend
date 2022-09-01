@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1662048656 source:c:\users\m2921\desktop\dont open\oop c++\student class1\src\studentsclass.cpp
+	"studentsclass.h"
+	<string>
+
+1662048713 c:\users\m2921\desktop\dont open\oop c++\student class1\include\studentsclass.h
+	<string>
+	<iostream>
+
+1662051297 source:c:\users\m2921\desktop\dont open\oop c++\student class1\main.cpp
+	<iostream>
+	<string>
+	"studentsclass.h"
+
